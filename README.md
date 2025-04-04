@@ -100,7 +100,7 @@ text_color=D1D5DB (a light grey like Tailwind Gray 300)
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=EthanCoderPenguin2012&show_icons=true&theme=transparent&border_color=ffffff4d&title_color=EF4444&icon_color=3B82F6&text_color=D1D5DB&hide_border=true&count_private=true&include_all_commits=true" alt="EthanCoderPenguin2012's GitHub Stats" />
      
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YourUsername]&layout=compact&theme=transparent&border_color=ffffff4d&title_color=EF4444&text_color=D1D5DB&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EthanCoderPenguin2012&layout=compact&theme=transparent&border_color=ffffff4d&title_color=EF4444&text_color=D1D5DB&hide_border=true" alt="Top Languages" />
 </p>
 
 <br/>
