@@ -14,7 +14,7 @@ Feel free to get inspired!
   <!-- Optional: Add a cool banner image here. Maybe something abstract/gradient? -->
   <!-- <img src="[URL_TO_YOUR_BANNER_IMAGE]" alt="Banner" width="100%"/> -->
 
-  <h1>Hey, I'm [Your Name]! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
+  <h1>Hey, I'm Ethan! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
   <p>
     <i>[Short, catchy tagline about you - e.g., "Full-Stack Explorer | Building the Future, One Line of Code at a Time 🚀" or "Creative Coder & Lifelong Learner ✨"]</i>
   </p>
@@ -98,7 +98,7 @@ text_color=D1D5DB (a light grey like Tailwind Gray 300)
 -->
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[YourUsername]&show_icons=true&theme=transparent&border_color=ffffff4d&title_color=EF4444&icon_color=3B82F6&text_color=D1D5DB&hide_border=true&count_private=true&include_all_commits=true" alt="[YourUsername]'s GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=EthanCoderPenguin2012&show_icons=true&theme=transparent&border_color=ffffff4d&title_color=EF4444&icon_color=3B82F6&text_color=D1D5DB&hide_border=true&count_private=true&include_all_commits=true" alt="EthanCoderPenguin2012's GitHub Stats" />
      
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YourUsername]&layout=compact&theme=transparent&border_color=ffffff4d&title_color=EF4444&text_color=D1D5DB&hide_border=true" alt="Top Languages" />
 </p>
@@ -112,7 +112,7 @@ text_color=D1D5DB (a light grey like Tailwind Gray 300)
 <!-- Option 2: Using github-readme-activity-graph (more customizable) -->
 <!-- Choose a theme (e.g., react, github-compact) and colors -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=[YourUsername]&theme=react-dark&bg_color=00000000&color=D1D5DB&line=3B82F6&point=EF4444&area=true&hide_border=true&hide_title=false" alt="Contribution Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=EthanCoderPenguin2012&theme=react-dark&bg_color=00000000&color=D1D5DB&line=3B82F6&point=EF4444&area=true&hide_border=true&hide_title=false" alt="Contribution Activity Graph" />
 </p>
 
 <!-- Option 3: GitHub Contributions Snake -->
@@ -151,5 +151,5 @@ text_color=D1D5DB (a light grey like Tailwind Gray 300)
 <!-- <p align="center">⚡ Fun fact: [Insert a fun fact about you or something interesting]</p> -->
 
 <div align="center">
-  <sub><sup>Profile views: <img src="https://komarev.com/ghpvc/?username=[YourUsername]&color=blueviolet&style=flat-square" alt="Profile views" /></sup></sub>
+  <sub><sup>Profile views: <img src="https://komarev.com/ghpvc/?username=EthanCoderPenguin2012&color=blueviolet&style=flat-square" alt="Profile views" /></sup></sub>
 </div>
