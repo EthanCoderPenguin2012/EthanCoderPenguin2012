@@ -23,7 +23,7 @@ Feel free to get inspired!
   <p>
     <a href="https://linkedin.com/in/[YourLinkedInUsername]" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
     <a href="https://twitter.com/[YourTwitterUsername]" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
-    <a href="mailto:[Your Email]" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+    <a href="mailto:ethan.h.patmore@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
     <!-- Add other social links like portfolio, blog, etc. -->
     <!-- <a href="[Your Portfolio Link]" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"></a> -->
   </p>
