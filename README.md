@@ -22,6 +22,13 @@ I'm passionate about coding, open-source, and building cool projects for the com
 ![XML](https://img.shields.io/badge/XML-FF6600?style=for-the-badge&logo=xml&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
+
+---
+
+Hey! I don't *just* work on stuff here! Check out [Neo Studios](https://github.com/Neo-Studios), where I have teamed up with [Coder-Penguin-2012](https://github.com/Coder-Penguin-2012) to make games in many different langauges. I am also CEO of [Timeless, LLC](https://timeless.github.io/shop) where we aim to make watch storage, hardware and software.
+
+
+
 ---
 
 ## 🌐 Connect with Me
