@@ -1,7 +1,7 @@
 # 👋 Hi, I'm EthanCoderPenguin2012
 
 Welcome to my GitHub profile!  
-I'm passionate about coding, open-source, and building cool projects for the community.
+I'm passionate about coding, open-source, and building cool projects for the community using AI.
 
 ---
 
