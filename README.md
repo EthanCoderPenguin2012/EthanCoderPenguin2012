@@ -1,4 +1,7 @@
 <div align="center">
+  <img src="logo.svg" width="120" alt="Project logo">
+
+  <br>
 
 # My Profie 🦆 
 
