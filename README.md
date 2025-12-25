@@ -21,3 +21,5 @@ From web apps, to silly python scripts, I really make what ever comes to mind. T
 ## What else do I do?
 I don't just code here! I am a solo developer at [Neo Studios](https://github.com/Neo-Studios), and have assisted with many projects over at [BuildOne](https://github.com/BuildOneRobotics). 
 
+>[!NOTE]
+> Hey! Quick note: the wonderful people over at https://github.com/anuraghazra/github-readme-stats are having some issues at the moment, so the stats will be broken for a while. 
